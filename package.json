@@ -1,0 +1,10 @@
+{
+  "name": "m3u8-live-generator",
+  "version": "1.0.0",
+  "description": "Live m3u8 + ts generator from remote .ts stream",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
